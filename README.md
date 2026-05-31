@@ -5,7 +5,7 @@
 ## Viewing This Project
 The Jupyter notebook contains embedded output and visualizations, which makes it too large to render directly on GitHub. For the best experience:
 * 📄 **[View the PDF](CMSC426_Assignment4_sp26.pdf)** — recommended for a quick look at the code and results
-* 📓 **[View the notebook on nbviewer](https://nbviewer.org/github/arikgershman/affine-structure-from-motion/blob/main/CMSC426_Assignment4_sp26.ipynb)** — for interactive notebook rendering
+* 📓 **[View the rendered HTML notebook](https://arikgershman.github.io/affine-structure-from-motion/CMSC426_Assignment4_sp26.html)** — for viewing the code and outputs
 * 💾 Download the `.ipynb` file to run it locally
 
 ## Project Overview
